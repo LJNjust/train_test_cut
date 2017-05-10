@@ -1,0 +1,11 @@
+all文件夹为政府工作报告
+Result文件夹为all文件夹的分词统计结果
+
+people为社会评论
+people_Result是对应的分词统计结果
+
+year 按时间归类的政府工作报告
+year_Result 为按年份归类的分词统计结果
+
+stopWord.txt为停用词
+userdict.txt为用户自定义词库
